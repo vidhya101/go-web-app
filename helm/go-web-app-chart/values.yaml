@@ -8,7 +8,7 @@ image:
   repository: vidhya101/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "26992068738"
+  tag: "26992506697"
 
 ingress:
   enabled: false
